@@ -4,12 +4,13 @@
 
 ## Cuántas violaciones ocurren al año en todo el mundo??
 ## Cuántos robos, secuestros, agresones suceden al año??
-## Cuántos ancianos/as sufrenmaltrato en la residencia??
+## Cuántos ancianos/as sufren maltrato en la residencia??
 
+******************************************************
 
 ## Se llega a socorrer a tiempo??
 
-
+******************************************************
 
 
 # TE PRESENTO: SAVE YOUR LIFE. 

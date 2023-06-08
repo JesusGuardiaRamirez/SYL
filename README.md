@@ -9,14 +9,15 @@ Debería de ser un derecho el poder estar protegidos. En este mundo de injustici
 Descripción y funcionalidad- SYL -
 Para ello he creado este algoritmo, que podría servir de mucha ayuda para esos casos mencionados.
 
-Regsitro en la misma aplicacion..:
+### Regsitro en la misma aplicacion..:
 
 
-0
+![Captura de pantalla 2023-06-08 a las 17 47 25](https://github.com/Ironhack-Data-Madrid-Abril-2023/7.4-lab_unsupervised_learning_evaluation/assets/125477881/504cbdfd-17b2-40d4-8b52-2784302c2267)
 
-0
 
-0
+
+
+
 El ususario tendrá la opción de registrar hasta 6 personas de emergencia cuando la aplicación este realmente funcionando, (solamente enseño una por tema de memoria)
 
 Una vez el usuario se ha registrado, la pantalla de la aplicación se pondrá totalmente en negro. Empezará a escuchar y solamente se pondrá a grabar cuando detecte la palabra clave que el mismo usuario puso a la hora de registrarse.

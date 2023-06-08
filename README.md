@@ -61,6 +61,9 @@ Una vez todo el proceso ha finalizado, estos datos serán guardados en MongoDB, 
 
 
 
+![mongo](https://github.com/Ironhack-Data-Madrid-Abril-2023/7.4-lab_unsupervised_learning_evaluation/assets/125477881/53e810a2-3abf-465b-ba81-74917d0dc9b0)
+
+
 
 ## Objetivo - SYL -
 La idea de este proyecto es hacer una aplicación que se pase dicha información de usuario a usuario en la misma aplicación sin tener que depender del Whatsapp ni del correo electrónico.
@@ -70,12 +73,18 @@ Esto solamente sería la primera versión como trial de SYL, para ver realmente 
 
 
 
-## LIST TO DO:
+## NEXT THING ->  TO DO LIST:
 
 
 
- 1 - Re
-
+ 1 - Incorporar mas datos de contato de emergencia.
+ 2 - Hacer que funcione en cualquier dispositivo.
+ 3 - Trabajar en la propia app.
+ 
+ 
+ 
+ 
+ 
 
 http://192.168.0.12:8501
 

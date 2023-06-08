@@ -1,8 +1,18 @@
-![1pic](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/9428a272-fa54-42ba-a1e5-03f2420d75e0)
+
+![saveyourlife](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/a9421019-bdf9-45d2-b747-a70c91078d69)
+
+
+## Cuántas violaciones ocurren al año en todo el mundo??
+## Cuántos robos, secuestros, agresones suceden al año??
+## Cuántos ancianos/as sufrenmaltrato en la residencia??
+
+
+## Se llega a socorrer a tiempo??
 
 
 
-# TE PRESENTO SAVE YOUR LIFE - an app in construction. 
+
+# TE PRESENTO: SAVE YOUR LIFE. 
 
 
 ## #Introducción - SYL 
@@ -15,7 +25,7 @@ Debería de ser un derecho el poder estar protegidos. En este mundo de injustici
 
 Para ello he creado este algoritmo, que podría servir de mucha ayuda para esos casos mencionados.
 
-Regsitro en la misma aplicacion..:
+### Regsitro en la misma aplicacion..:
 
 El ususario tendrá la opción de registrar hasta 6 personas de emergencia cuando la aplicación este realmente funcionando, (solamente enseño una por tema de memoria)
 

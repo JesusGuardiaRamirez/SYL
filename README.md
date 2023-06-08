@@ -1,20 +1,22 @@
+
+<p align="center">
 ![Captura de pantalla 2023-06-04 a las 16 43 23](https://github.com/JesusGuardiaRamirez/SYL/assets/125477881/27846656-acd9-4e87-88d9-4543149b361a)
+</p>
 
-
-
+<p align="center">
 ![Captura de pantalla 2023-06-08 a las 19 15 42](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/71a2d2c9-9f18-4e06-98c9-a650fbc6043a)
+</p>
 
-
-
+<p align="center">
 ![Captura de pantalla 2023-06-08 a las 19 15 54](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/719fc05b-494f-479e-99b2-03539d546978)
+</p>
 
 
 
+# TE PRESENTO SAVE YOUR LIFE - an app in construction. 
 
-## TE PRESENTO SAVE YOUR LIFE - an app in construction. 
 
-
-###Introducción - SYL 
+## #Introducción - SYL 
 
 
 Debería de ser un derecho el poder estar protegidos. En este mundo de injusticias, aqui pongo alguno de los miles de ejmplos de los cuales hay una fuga de escape en que se pierder por el camino. Por ejemplo: Situaciones como: el niño o la niña que va a la escuela y tiene que sufrir abusos, insultos, amenazas y la escuela no hacen nada o la mayoria de las veces ni si quiera se enteran de la situación o hace oidos sordos, como la mujer que es maltrada en su casa a manos de su pareja, sin que nadie la pueda socorrer en el momento o pueda pedir ayuda a terceros. El abuelo o la abuela que lamentablemente vive en una residencia y recibe mal trato de las propias cuidadoras o como otros casos como por ejemplo que te puedan socorrer en un accidente en la carretera (alertar a alguien en el mismo momento). Que te pueda servir de ayuda en un conflicto fuera de lo normal y que se quede registrado.. etc.. etc..

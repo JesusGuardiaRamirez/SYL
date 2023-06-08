@@ -5,21 +5,17 @@
 
 
 
+## Cuántas violaciones ocurren al año en todo el mundo ⁉️
+## Cuántos robos, secuestros, agresones suceden al año ⁉️
+## Cuántos ancianos/as sufren maltrato en la residencia ⁉️
 
 
-         ## Cuántas violaciones ocurren al año en todo el mundo??
-         ## Cuántos robos, secuestros, agresones suceden al año??
-         ## Cuántos ancianos/as sufren maltrato en la residencia??
+             
 
 
+## Se llega a socorrer a tiempo ⁉️ ⁉️ ⁉️
 
 
-
-******************************************************
-
-          ## Se llega a socorrer a tiempo??
-
-******************************************************
 
 
 # ➡️TE PRESENTO: SAVE YOUR LIFE. ⬅️
@@ -86,7 +82,7 @@ Una vez todo el proceso ha finalizado, estos datos serán guardados en MongoDB, 
 
 
 
-## - Base de datos - MONGODB
+## - 💻 Base de datos - MONGODB
 
 
 ![Captura de pantalla 2023-06-08 a las 18 54 36](https://github.com/Ironhack-Data-Madrid-Abril-2023/7.4-lab_unsupervised_learning_evaluation/assets/125477881/940603d6-2d23-4360-9bbb-0fd79d4fa4d2)
@@ -99,7 +95,7 @@ La idea de este proyecto es hacer una aplicación que se pase dicha información
 
 Esto solamente sería la primera versión como trial de SYL, para ver realmente como va luciendo y poder trabajar en futuras versiones.
 
-# DEMO  🎥 
+# 🎥 DEMO  🎥 
 
 
 https://youtu.be/fov6_Kjo6cM
@@ -110,7 +106,7 @@ https://youtu.be/fov6_Kjo6cM
 
 
 
-## NEXT  ->  TO DO LIST:
+## ⭕  NEXT  ->  TO DO LIST:
 
 
 

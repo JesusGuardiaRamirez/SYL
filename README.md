@@ -2,9 +2,14 @@
 
 
 
-### SELF PROTECTION
-Introducción - SYL -
+## SELF PROTECTION
+
+
+###Introducción - SYL 
+
+
 Debería de ser un derecho el poder estar protegidos. En este mundo de injusticias, aqui pongo alguno de los miles de ejmplos de los cuales hay una fuga de escape en que se pierder por el camino. Por ejemplo: Situaciones como: el niño o la niña que va a la escuela y tiene que sufrir abusos, insultos, amenazas y la escuela no hacen nada o la mayoria de las veces ni si quiera se enteran de la situación o hace oidos sordos, como la mujer que es maltrada en su casa a manos de su pareja, sin que nadie la pueda socorrer en el momento o pueda pedir ayuda a terceros. El abuelo o la abuela que lamentablemente vive en una residencia y recibe mal trato de las propias cuidadoras o como otros casos como por ejemplo que te puedan socorrer en un accidente en la carretera (alertar a alguien en el mismo momento). Que te pueda servir de ayuda en un conflicto fuera de lo normal y que se quede registrado.. etc.. etc..
+
 
 ### Descripción y funcionalidad- SYL -
 

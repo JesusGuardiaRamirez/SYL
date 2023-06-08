@@ -7,9 +7,9 @@
 
 
 
-## Cuántas violaciones ocurren al año en todo el mundo??
-## Cuántos robos, secuestros, agresones suceden al año??
-## Cuántos ancianos/as sufren maltrato en la residencia??
+➡️## Cuántas violaciones ocurren al año en todo el mundo??
+➡️## Cuántos robos, secuestros, agresones suceden al año??
+➡️## Cuántos ancianos/as sufren maltrato en la residencia??
 
 
 
@@ -99,7 +99,7 @@ La idea de este proyecto es hacer una aplicación que se pase dicha información
 
 Esto solamente sería la primera versión como trial de SYL, para ver realmente como va luciendo y poder trabajar en futuras versiones.
 
-# DEMO
+# DEMO  🎥 
 
 
 https://youtu.be/fov6_Kjo6cM

@@ -1,7 +1,8 @@
 
 <p align="center">
-![Texto alternativo](/Users/JGR/Desktop/SYL_images/saveyourlife.png)
+  <img src="/Users/JGR/Desktop/SYL_images/saveyourlife.png" alt="Texto alternativo">
 </p>
+
 
 <p align="center">
 ![Captura de pantalla 2023-06-08 a las 19 15 42](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/71a2d2c9-9f18-4e06-98c9-a650fbc6043a)

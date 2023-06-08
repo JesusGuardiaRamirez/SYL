@@ -61,7 +61,11 @@ Una vez todo el proceso ha finalizado, estos datos serán guardados en MongoDB, 
 
 
 
-![mongo](https://github.com/Ironhack-Data-Madrid-Abril-2023/7.4-lab_unsupervised_learning_evaluation/assets/125477881/53e810a2-3abf-465b-ba81-74917d0dc9b0)
+## - Base de datos - MONGODB
+
+
+![Captura de pantalla 2023-06-08 a las 18 54 36](https://github.com/Ironhack-Data-Madrid-Abril-2023/7.4-lab_unsupervised_learning_evaluation/assets/125477881/940603d6-2d23-4360-9bbb-0fd79d4fa4d2)
+
 
 
 

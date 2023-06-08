@@ -86,15 +86,15 @@ Esto solamente sería la primera versión como trial de SYL, para ver realmente 
 
 
 
- 1 - Incorporar mas datos de contato de emergencia.
- 2 - Hacer que funcione en cualquier dispositivo.
- 3 - Trabajar en la propia app.
+     1 - Incorporar mas datos de contato de emergencia.
+     2 - Hacer que funcione en cualquier dispositivo.
+     3 - Trabajar en la propia app.
  
  
  
  
  
 
-http://192.168.0.12:8501
+
 
 

@@ -1,16 +1,4 @@
-
-<p align="center">
-  <img src="/Users/JGR/Desktop/SYL_images/saveyourlife.png" alt="Texto alternativo">
-</p>
-
-
-<p align="center">
-![Captura de pantalla 2023-06-08 a las 19 15 42](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/71a2d2c9-9f18-4e06-98c9-a650fbc6043a)
-</p>
-
-<p align="center">
-![Captura de pantalla 2023-06-08 a las 19 15 54](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/719fc05b-494f-479e-99b2-03539d546978)
-</p>
+![1pic](https://github.com/Ironhack-Data-Madrid-Abril-2023/w8-final_project/assets/125477881/9428a272-fa54-42ba-a1e5-03f2420d75e0)
 
 
 
